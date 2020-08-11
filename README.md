@@ -1,6 +1,6 @@
 # Fibonacci
 
-Verifica se um numero gerado aleatoriamente pertence a série de *Fibonacci* gerada ate *350*.
+Verifica se um número gerado aleatóriamente pertence a série de *Fibonacci* gerada ate *350*.
 
 > A série de Fibonacci é a seguinte: 0, 1, 1, 2, 3, 5, 8, 13, etc...
 
@@ -14,6 +14,5 @@ Neste exercicio eu aprendi:
 - Listas
 
 ## Recursos utilizados
-​
 - Java 8 +
 
